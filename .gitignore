@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.pyo
+neural_net_from_scratch/mnist_data/
+.env
+*.egg-info/
+dist/
+build/
